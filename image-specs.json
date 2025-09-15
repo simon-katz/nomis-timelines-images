@@ -1,0 +1,15 @@
+{
+  "Minoan_civilization": {"original-width":  250,
+                          "original-height": 373,
+                          "props":           {"alt": "Early Minoan bird-shaped vessel",
+                                              "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AMC_Early_Minoan_bird-shaped_vessel.jpg/250px-AMC_Early_Minoan_bird-shaped_vessel.jpg"
+                                             }
+                         },
+
+  "Pythagoras": {"original-width":  250,
+                 "original-height": 362,
+                 "props":           {"alt": "Bust of Pythagoras of Samos in the Capitoline Museums, Rome",
+                                     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"
+                                    }
+                }
+}
