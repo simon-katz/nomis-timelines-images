@@ -1,0 +1,48 @@
+{:cretan-hieroglyphs
+ {:href            "https://en.wikipedia.org/wiki/Cretan_hieroglyphs#/media/File:The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_(1921)_(14771199524).jpg"
+  :original-width  315
+  :original-height 240
+  :props           {:alt "Cretan hieroglyphics as seen in seals and tablets"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_%281921%29_%2814771199524%29.jpg/330px-thumbnail.jpg"}}
+
+ :linear-a
+ {:href            "https://commons.wikimedia.org/wiki/File:Linear_A_cup.png"
+  :original-width  499
+  :original-height 480
+  :props           {:alt "Linear A inscription on a cup"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Linear_A_cup.png/500px-Linear_A_cup.png"}}
+
+ :minoan_eruption
+ {:href            "https://en.wikipedia.org/wiki/Minoan_eruption#/media/File:Santorini_ASTER.jpg"
+  :original-width  232
+  :original-height 240
+  :props           {:alt "Satellite image of Thera, November 21, 2000"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Santorini_ASTER.jpg/250px-Santorini_ASTER.jpg"}}
+
+ :minoan-pottery
+ {:href            "https://en.wikipedia.org/wiki/Minoan_pottery#/media/File:AMI_-_Oktopusvase.jpg"
+  :original-width  203
+  :original-height 240
+  :props           {:alt "Marine-style flask with octopus, c. 1500-1450 BC"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMI_-_Oktopusvase.jpg/250px-AMI_-_Oktopusvase.jpg"}}
+
+ :minoan-seals
+ {:href            "https://commons.wikimedia.org/wiki/File:Minoisch_Siegel_Detail_(cropped).jpg"
+  :original-width  170
+  :original-height 240
+  :props           {:alt "Minoan Seal, 1700 BC, Badisches Landesmuseum Karlsruhe - Special Exhibition 2001"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Minoisch_Siegel_Detail_%28cropped%29.jpg/250px-Minoisch_Siegel_Detail_%28cropped%29.jpg"}}
+
+ :pythagoras
+ {:href            "https://en.wikipedia.org/wiki/Pythagoras#/media/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
+  :original-width  250
+  :original-height 362
+  :props           {:alt "Bust of Pythagoras of Samos in the Capitoline Museums, Rome"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}}}
+
+#_
+{:href            ""
+ :original-width  .
+ :original-height .
+ :props           {:alt ""
+                   :src ""}}
