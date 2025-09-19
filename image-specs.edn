@@ -40,6 +40,13 @@
   :props           {:alt "Minoan Seal, 1700 BC, Badisches Landesmuseum Karlsruhe - Special Exhibition 2001"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Minoisch_Siegel_Detail_%28cropped%29.jpg/250px-Minoisch_Siegel_Detail_%28cropped%29.jpg"}}
 
+ :mycenaean-pottery
+ {:href            "https://en.wikipedia.org/wiki/Mycenaean_pottery#/media/File:Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"
+  :original-width  240
+  :original-height 240
+  :props           {:alt "A Mycenaean stirrup jar, hallmark of the olive oil trade in the Late Bronze Age"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg/250px-Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"}}
+
  :pythagoras
  {:href            "https://en.wikipedia.org/wiki/Pythagoras#/media/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
   :original-width  250
