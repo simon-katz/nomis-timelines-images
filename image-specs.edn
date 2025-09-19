@@ -19,6 +19,13 @@
   :props           {:alt "Linear A inscription on a cup"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Linear_A_cup.png/500px-Linear_A_cup.png"}}
 
+ :linear-b
+ {:href            "https://en.wikipedia.org/wiki/Linear_B#/media/File:Linear_B_tablet_An_35.svg"
+  :original-width  269
+  :original-height 240
+  :props           {:alt "Illustration of a Linear B tablet from Pylos"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Linear_B_tablet_An_35.svg/330px-Linear_B_tablet_An_35.svg.png"}}
+
  :minoan_eruption
  {:href            "https://en.wikipedia.org/wiki/Minoan_eruption#/media/File:Santorini_ASTER.jpg"
   :original-width  232
