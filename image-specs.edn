@@ -5,6 +5,13 @@
   :props           {:alt "Cretan hieroglyphics as seen in seals and tablets"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_%281921%29_%2814771199524%29.jpg/330px-thumbnail.jpg"}}
 
+ :geometric-art
+ {:href            "https://en.wikipedia.org/wiki/Geometric_art#/media/File:Attic_Late_Geometric_krater_(8th_cent._B.C.)_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"
+  :original-width  180
+  :original-height 240
+  :props           {:alt "The Hirschfeld Krater, mid-8th century BC, from the late Geometric period, National Archaeological Museum, Athens"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg/250px-Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"}}
+
  :invention-of-the-greek-alphabet
  {:href            "https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet#/media/File:Griechisches_Alphabet_Varianten.png"
   :original-width  124
