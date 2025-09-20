@@ -54,6 +54,13 @@
   :props           {:alt "A Mycenaean stirrup jar, hallmark of the olive oil trade in the Late Bronze Age"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg/250px-Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"}}
 
+ :protogeometric-pottery
+ {:href            "https://en.wikipedia.org/wiki/Protogeometric_style#/media/File:Protogeometric_amphora_BM_A1124.jpg"
+  :original-width  149
+  :original-height 240
+  :props           {:alt "Proto-Geometric amphora c. 975–950 BCE. Athens, now British Museum"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Protogeometric_amphora_BM_A1124.jpg/250px-Protogeometric_amphora_BM_A1124.jpg"}}
+
  :pythagoras
  {:href            "https://en.wikipedia.org/wiki/Pythagoras#/media/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
   :original-width  250
