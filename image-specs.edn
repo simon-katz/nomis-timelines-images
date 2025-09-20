@@ -1,4 +1,11 @@
-{:archaic-sparta
+{#_
+ {:href            ""
+  :original-width  .
+  :original-height .
+  :props           {:alt ""
+                    :src ""}}
+
+ :archaic-sparta
  {:href            "https://en.wikipedia.org/wiki/Peloponnesian_League#/media/File:Peloponnesian_League_506_BC.png"
   :original-width  260
   :original-height 240
@@ -81,10 +88,3 @@
   :original-height 362
   :props           {:alt "Bust of Pythagoras of Samos in the Capitoline Museums, Rome"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}}}
-
-#_
-{:href            ""
- :original-width  .
- :original-height .
- :props           {:alt ""
-                   :src ""}}
