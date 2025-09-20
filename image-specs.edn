@@ -1,4 +1,11 @@
-{:cretan-hieroglyphs
+{:archaic-sparta
+ {:href            "https://en.wikipedia.org/wiki/Peloponnesian_League#/media/File:Peloponnesian_League_506_BC.png"
+  :original-width  260
+  :original-height 240
+  :props           {:alt "The first members of the Peloponnesian League before 506 BC, according to G. E. M. de Ste. Croix"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peloponnesian_League_506_BC.png/330px-Peloponnesian_League_506_BC.png"}}
+
+ :cretan-hieroglyphs
  {:href            "https://en.wikipedia.org/wiki/Cretan_hieroglyphs#/media/File:The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_(1921)_(14771199524).jpg"
   :original-width  315
   :original-height 240
