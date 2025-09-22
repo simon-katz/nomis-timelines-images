@@ -12,6 +12,13 @@
   :props           {:alt "The first members of the Peloponnesian League before 506 BC, according to G. E. M. de Ste. Croix"
                     :src "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peloponnesian_League_506_BC.png/330px-Peloponnesian_League_506_BC.png"}}
 
+ :athenian-democracy
+ {:href            "https://en.wikipedia.org/wiki/Athenian_democracy#/media/File:Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"
+  :original-width  180
+  :original-height 240
+  :props           {:alt "The relief representation depicts the personified Demos being crowned by Democracy. About 336 BC. Ancient Agora Museum."
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg/250px-Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"}}
+
  :cretan-hieroglyphs
  {:href            "https://en.wikipedia.org/wiki/Cretan_hieroglyphs#/media/File:The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_(1921)_(14771199524).jpg"
   :original-width  315
