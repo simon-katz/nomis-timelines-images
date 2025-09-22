@@ -101,4 +101,11 @@
   :original-width  250
   :original-height 362
   :props           {:alt "Bust of Pythagoras of Samos in the Capitoline Museums, Rome"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}}
+
+ :solon
+ {:href            "https://en.wikipedia.org/wiki/Solon#/media/File:Ignoto,_c.d._solone,_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca,_6143.JPG"
+  :original-width  147
+  :original-height 240
+  :props           {:alt "Bust of Solon, copy from a Greek original (c. 110 BC) from the Farnese Collection, now at the National Archaeological Museum, Naples"
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/250px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG"}}}
