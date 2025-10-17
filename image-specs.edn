@@ -10,102 +10,132 @@
   :original-width  260
   :original-height 240
   :props           {:alt "The first members of the Peloponnesian League before 506 BC, according to G. E. M. de Ste. Croix"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peloponnesian_League_506_BC.png/330px-Peloponnesian_League_506_BC.png"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Peloponnesian_League_506_BC.png/330px-Peloponnesian_League_506_BC.png"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Peloponnesian_League_506_BC.png"
+                    :alt "The first members of the Peloponnesian League before 506 BC, according to G. E. M. de Ste. Croix"}}
 
  :athenian-democracy
  {:href            "https://en.wikipedia.org/wiki/Athenian_democracy#/media/File:Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"
   :original-width  180
   :original-height 240
   :props           {:alt "The relief representation depicts the personified Demos being crowned by Democracy. About 336 BC. Ancient Agora Museum."
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg/250px-Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg/250px-Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Demos_embodiment_being_crowned_by_Democracy._Ancient_Agora_Museum_in_Athens.jpg"
+                    :alt "The relief representation depicts the personified Demos being crowned by Democracy. About 336 BC. Ancient Agora Museum."}}
 
  :cretan-hieroglyphs
  {:href            "https://en.wikipedia.org/wiki/Cretan_hieroglyphs#/media/File:The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_(1921)_(14771199524).jpg"
   :original-width  315
   :original-height 240
   :props           {:alt "Cretan hieroglyphics as seen in seals and tablets"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_%281921%29_%2814771199524%29.jpg/330px-thumbnail.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_%281921%29_%2814771199524%29.jpg/330px-thumbnail.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:The_palace_of_Minos_-_a_comparative_account_of_the_successive_stages_of_the_early_Cretan_civilization_as_illustrated_by_the_discoveries_at_Knossos_(1921)_(14771199524).jpg"
+                    :alt "Cretan hieroglyphics as seen in seals and tablets"}}
 
  :first-olympic-games
  {:href            "https://en.wikipedia.org/wiki/Olive_wreath#/media/File:Kotinos_light_background.jpg"
   :original-width  320
   :original-height 237
   :props           {:alt "Kotinos, the prize for the winner at the Ancient Olympic Games"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kotinos_light_background.jpg/330px-Kotinos_light_background.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kotinos_light_background.jpg/330px-Kotinos_light_background.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Kotinos_light_background.jpg"
+                    :alt "Kotinos, the prize for the winner at the Ancient Olympic Games"}}
 
  :geometric-art
  {:href            "https://en.wikipedia.org/wiki/Geometric_art#/media/File:Attic_Late_Geometric_krater_(8th_cent._B.C.)_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"
   :original-width  180
   :original-height 240
   :props           {:alt "The Hirschfeld Krater, mid-8th century BC, from the late Geometric period, National Archaeological Museum, Athens"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg/250px-Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg/250px-Attic_Late_Geometric_krater_%288th_cent._B.C.%29_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Attic_Late_Geometric_krater_(8th_cent._B.C.)_at_the_National_Archaeological_Museum_of_Athens_on_16_May_2018.jpg"
+                    :alt "The Hirschfeld Krater, mid-8th century BC, from the late Geometric period, National Archaeological Museum, Athens"}}
 
  :invention-of-the-greek-alphabet
  {:href            "https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet#/media/File:Griechisches_Alphabet_Varianten.png"
   :original-width  124
   :original-height 240
   :props           {:alt "Variations of ancient Greek alphabets"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Griechisches_Alphabet_Varianten.png/250px-Griechisches_Alphabet_Varianten.png"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Griechisches_Alphabet_Varianten.png/250px-Griechisches_Alphabet_Varianten.png"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Griechisches_Alphabet_Varianten.png"
+                    :alt "Variations of ancient Greek alphabets"}}
 
  :linear-a
  {:href            "https://commons.wikimedia.org/wiki/File:Linear_A_cup.png"
   :original-width  499
   :original-height 480
   :props           {:alt "Linear A inscription on a cup"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Linear_A_cup.png/500px-Linear_A_cup.png"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Linear_A_cup.png/500px-Linear_A_cup.png"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Linear_A_cup.png"
+                    :alt "Linear A inscription on a cup"}}
 
  :linear-b
  {:href            "https://en.wikipedia.org/wiki/Linear_B#/media/File:Linear_B_tablet_An_35.svg"
   :original-width  269
   :original-height 240
   :props           {:alt "Illustration of a Linear B tablet from Pylos"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Linear_B_tablet_An_35.svg/330px-Linear_B_tablet_An_35.svg.png"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Linear_B_tablet_An_35.svg/330px-Linear_B_tablet_An_35.svg.png"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Linear_B_tablet_An_35.svg"
+                    :alt "Illustration of a Linear B tablet from Pylos"}}
 
  :minoan_eruption
  {:href            "https://en.wikipedia.org/wiki/Minoan_eruption#/media/File:Santorini_ASTER.jpg"
   :original-width  232
   :original-height 240
   :props           {:alt "Satellite image of Thera, November 21, 2000"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Santorini_ASTER.jpg/250px-Santorini_ASTER.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Santorini_ASTER.jpg/250px-Santorini_ASTER.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Santorini_ASTER.jpg"
+                    :alt "Satellite image of Thera, November 21, 2000"}}
 
  :minoan-pottery
  {:href            "https://en.wikipedia.org/wiki/Minoan_pottery#/media/File:AMI_-_Oktopusvase.jpg"
   :original-width  203
   :original-height 240
   :props           {:alt "Marine-style flask with octopus, c. 1500-1450 BC"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMI_-_Oktopusvase.jpg/250px-AMI_-_Oktopusvase.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/AMI_-_Oktopusvase.jpg/250px-AMI_-_Oktopusvase.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:AMI_-_Oktopusvase.jpg"
+                    :alt "Marine-style flask with octopus, c. 1500-1450 BC"}}
 
  :minoan-seals
  {:href            "https://commons.wikimedia.org/wiki/File:Minoisch_Siegel_Detail_(cropped).jpg"
   :original-width  170
   :original-height 240
   :props           {:alt "Minoan Seal, 1700 BC, Badisches Landesmuseum Karlsruhe - Special Exhibition 2001"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Minoisch_Siegel_Detail_%28cropped%29.jpg/250px-Minoisch_Siegel_Detail_%28cropped%29.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Minoisch_Siegel_Detail_%28cropped%29.jpg/250px-Minoisch_Siegel_Detail_%28cropped%29.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Minoisch_Siegel_Detail_(cropped).jpg"
+                    :alt "Minoan Seal, 1700 BC, Badisches Landesmuseum Karlsruhe - Special Exhibition 2001"}}
 
  :mycenaean-pottery
  {:href            "https://en.wikipedia.org/wiki/Mycenaean_pottery#/media/File:Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"
   :original-width  240
   :original-height 240
   :props           {:alt "A Mycenaean stirrup jar, hallmark of the olive oil trade in the Late Bronze Age"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg/250px-Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg/250px-Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Mycenaean_stirrup-vase_MBA_Rennes_D08-2-11.jpg"
+                    :alt "A Mycenaean stirrup jar, hallmark of the olive oil trade in the Late Bronze Age"}}
 
  :protogeometric-pottery
  {:href            "https://en.wikipedia.org/wiki/Protogeometric_style#/media/File:Protogeometric_amphora_BM_A1124.jpg"
   :original-width  149
   :original-height 240
   :props           {:alt "Proto-Geometric amphora c. 975–950 BCE. Athens, now British Museum"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Protogeometric_amphora_BM_A1124.jpg/250px-Protogeometric_amphora_BM_A1124.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Protogeometric_amphora_BM_A1124.jpg/250px-Protogeometric_amphora_BM_A1124.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Protogeometric_amphora_BM_A1124.jpg"
+                    :alt "Proto-Geometric amphora c. 975–950 BCE. Athens, now British Museum"}}
 
  :pythagoras
  {:href            "https://en.wikipedia.org/wiki/Pythagoras#/media/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
   :original-width  250
   :original-height 362
   :props           {:alt "Bust of Pythagoras of Samos in the Capitoline Museums, Rome"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
+                    :alt "Bust of Pythagoras of Samos in the Capitoline Museums, Rome"}}
 
  :solon
  {:href            "https://en.wikipedia.org/wiki/Solon#/media/File:Ignoto,_c.d._solone,_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca,_6143.JPG"
   :original-width  147
   :original-height 240
   :props           {:alt "Bust of Solon, copy from a Greek original (c. 110 BC) from the Farnese Collection, now at the National Archaeological Museum, Naples"
-                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/250px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG"}}}
+                    :src "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/250px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG"}
+  :image-spec-v2   {:wikipedia-image-filename "File:Ignoto,_c.d._solone,_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca,_6143.JPG"
+                    :alt "Bust of Solon, copy from a Greek original (c. 110 BC) from the Farnese Collection, now at the National Archaeological Museum, Naples"}}}
